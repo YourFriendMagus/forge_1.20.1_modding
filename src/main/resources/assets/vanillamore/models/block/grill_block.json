@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+      "all": "vanillamore:block/grill_block.png"
+  }
+}

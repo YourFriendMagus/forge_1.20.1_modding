@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": {
+      "model": "vanillamore:block/grill_block"
+
+    }
+  }
+}
